@@ -62,10 +62,14 @@ Smali        █                1
 
 ## Public Work
 
+- [JLPTPremiumTweak](https://github.com/TW-3ho/JLPTPremiumTweak) - iOS tweak research build with release packaging workflow.
+- [class-helper-bot](https://github.com/TW-3ho/class-helper-bot) - Discord bot for authorized classroom check-in and account-state testing.
+- [dcsimpler-mv3](https://github.com/TW-3ho/dcsimpler-mv3) - unofficial Manifest V3 migration of DCSimpler.
 - [DC GIF Compressor](https://github.com/TW-3ho/DC_gif_compressor) - Discord GIF compression utility.
-- [PTTAutoSign](https://github.com/TW-3ho/PTTAutoSign) - PTT auto sign-in workflow.
+- [PTTAutoSign](https://github.com/TW-3ho/PTTAutoSign) - PTT auto sign-in workflow fork.
 - [Azurlane-Build](https://github.com/TW-3ho/Azurlane-Build) - Azurlane regional build and release fork.
 - [Zygisk-Il2CppDumper](https://github.com/TW-3ho/Zygisk-Il2CppDumper) - runtime il2cpp dumping tool fork.
+- [melon-ticket-actions](https://github.com/TW-3ho/melon-ticket-actions) - public ticketing automation workflow fork.
 
 ## Contact
 
